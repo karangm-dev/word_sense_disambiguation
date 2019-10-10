@@ -1,0 +1,232 @@
+activate.v: Index(['(', 'have', 'have activated', 'must', 'pos-2_MD', 'pressure',
+       'promoter', 'should activate', 'tribal', 'with'],
+      dtype='object')
+
+add.v: Index(['add up', 'adds up', 'all', 'pos-1_DT', 'pos-2_PDT', 'pos1_RP',
+       'speculative', 'this', 'this adds', 'up'],
+      dtype='object')
+
+appear.v: Index(['appear to', 'appeared in', 'in', 'pos1_IN', 'pos1_TO', 'pos2_NNP',
+       'pos2_VB', 'to', 'which', 'which appeared'],
+      dtype='object')
+
+argument.n: Index(['illustrates', 'pos-1_NNP', 'pos-1_VBD', 'pos-1_VBN', 'pos1_POS',
+       'presented', 'presented argument', 'starkly', 'stratospheric',
+       'texture'],
+      dtype='object')
+
+arm.n: Index(['He', 'arm of', 'arm protruding', 'arm to', 'its', 'its arm',
+       'protruding', 'radial', 'upholstered', 'upholstered arm'],
+      dtype='object')
+
+ask.v: Index(['Goldberg', 'ask Goldberg', 'ask for', 'asked for', 'asked her',
+       'asked to', 'be asked', 'for', 'pos1_IN', 'pos1_TO'],
+      dtype='object')
+
+atmosphere.n: Index(['East', 'atmosphere studies', 'line', 'ominous', 'ominous atmosphere',
+       'pos1_NNS', 'pos2_:', 'studies', 'transparent', 'year'],
+      dtype='object')
+
+audience.n: Index(['Norwood', 'architects', 'invited', 'invited audience', 'of',
+       'of audience', 'pos-1_IN', 'pos-2_NNS', 'rights', 'small'],
+      dtype='object')
+
+bank.n: Index(['Price', 'breaking', 'data banks', 'land', 'land bank', 'of bank',
+       'plants', 'relying', 'seed', 'seed bank'],
+      dtype='object')
+
+begin.v: Index(['home', 'policies', 'similar', 'state', 'state began', 'successful',
+       'understand', 'venture', 'venture begun', 'wine'],
+      dtype='object')
+
+climb.v: Index(['climb slowly', 'climbed to', 'climbing roses', 'he climbed', 'his',
+       'nominees', 'order', 'pos2_PRP$', 'roses', 'slowly'],
+      dtype='object')
+
+decide.v: Index(['decided about', 'has', 'has decided', 'jury', 'much', 'of deciding',
+       'pos-1_VBZ', 'pos2_NNS', 'prizes', 'ways'],
+      dtype='object')
+
+degree.n: Index(['absolute', 'completing', 'nth', 'nth degree', 'pos2_VBG',
+       'several degrees', 'understeers', 'using', 'using degrees', 'vary'],
+      dtype='object')
+
+difference.n: Index(['between', 'difference between', 'difference to', 'goal',
+       'goal difference', 'made', 'pos-1_NN', 'pos-1_PRP$', 'pos1_TO', 'to'],
+      dtype='object')
+
+different.a: Index(['A different', 'an', 'dates', 'different dates', 'different matter',
+       'entirely', 'entirely different', 'material', 'matter', 'pos-2_.'],
+      dtype='object')
+
+difficulty.n: Index(['difficulty of', 'obvious difficulty', 'of difficulty', 'pos-2_JJS',
+       'pos-2_VBZ', 'potential', 'potential difficulty', 'the difficulty',
+       'type', 'we'],
+      dtype='object')
+
+disc.n: Index(['central', 'central disc', 'disc of', 'disc useless', 'flat', 'floppy',
+       'floppy disc', 'floppy discs', 'makes', 'useless'],
+      dtype='object')
+
+eat.v: Index(['at', 'away', 'began', 'eat away', 'eat up', 'pos1_RB', 'pos1_RP',
+       'sword', 'up', 'vitality'],
+      dtype='object')
+
+encounter.v: Index(['They', 'They encountered', 'encountered fierce', 'fierce', 'pos-2_.',
+       'resistance', 'suddenly', 'suddenly encountering', 'until',
+       'would encounter'],
+      dtype='object')
+
+expect.v: Index(['I', 'and', 'and expecting', 'expecting her', 'first', 'her', 'play',
+       'pos-1_CC', 'pos1_PRP$', 'pos2_JJ'],
+      dtype='object')
+
+express.v: Index([', expressing', 'death', 'eliciting', 'expressing and', 'had',
+       'pos1_PRP', 'pos2_VBG', 'publicly', 'publicly expressed', 'themselves'],
+      dtype='object')
+
+hear.v: Index(['Announce', 'any', 'be heard', 'hear any', 'more', 'pos-2_TO',
+       'pos-2_VB', 'pos2_JJR', 'pos2_VB', 'want'],
+      dtype='object')
+
+hot.a: Index(['business', 'favourite', 'hot favourite', 'hot for', 'hot pursuit',
+       'pos-1_:', 'pursuit', 'red', 'set', 'so hot'],
+      dtype='object')
+
+image.n: Index(['concrete', 'concrete image', 'fire', 'metaphor', 'spit', 'spit image',
+       'that image', 'unruffled', 'very', 'very image'],
+      dtype='object')
+
+important.a: Index(['-', '- important', 'important foreign', 'important single',
+       'investors', 'pos-1_:', 'self', 'single', 'so', 'so important'],
+      dtype='object')
+
+interest.n: Index(['England', 'appropriate', 'capital', 'capital interests',
+       'denominational', 'denominational interests', 'interest in',
+       'interests of', 'particularly', 'pos-1_NN'],
+      dtype='object')
+
+judgment.n: Index(['His', 'best', 'best judgment', 'judgment or', 'or', 'order',
+       'pos-1_JJS', 'pos-2_PRP$', 'pos2_PRP$', 'your'],
+      dtype='object')
+
+lose.v: Index(['lose something', 'losing its', 'on', 'pos-2_VBP', 'pos-2_VBZ', 'seem',
+       'something', 'time lost', 'way', 'young'],
+      dtype='object')
+
+mean.v: Index(['be', 'mean to', 'meant to', 'pos1_TO', 'pos2_JJR', 'pos2_VB', 'so',
+       'something', 'to', 'which mean'],
+      dtype='object')
+
+miss.v: Index(['enough', 'have', 'miss the', 'misses the', 'point', 'pos1_PRP',
+       'pos2_VBG', 'screaming', 'target', 'you'],
+      dtype='object')
+
+note.v: Index(['note on', 'noted as', 'noted down', 'notes ,', 'pos1_RP', 'presence',
+       'stop', 'they', 'they noted', 'which noted'],
+      dtype='object')
+
+operate.v: Index(['by', 'is operating', 'operate effectively', 'operating .',
+       'operating in', 'pos-2_CC', 'pos2_CD', 'pos2_RB', 'three', 'written'],
+      dtype='object')
+
+organization.n: Index(['and organization', 'management', 'organization of', 'police',
+       'pos-1_CC', 'pos-2_NN', 'state', 'up', 'your', 'your organization'],
+      dtype='object')
+
+paper.n: Index(['Menzies', 'actual', 'actual paper', 'looked', 'managing',
+       'paper managing', 'papers as', 'pos2_)', 'waving', 'you'],
+      dtype='object')
+
+party.n: Index(['Join', 'continuous', 'continuous party', 'goers', 'interested',
+       'interested parties', 'left', 'she', 'the parties', 'watched'],
+      dtype='object')
+
+performance.n: Index(['- performance', 'a performance', 'first', 'high', 'high performance',
+       'pos-1_:', 'pos1_NN', 'pos1_NNS', 'pos2_PRP$', 'pos2_WDT'],
+      dtype='object')
+
+plan.n: Index(['-', '- plan', 'funeral', 'funeral plans', 'guaranteed', 'open',
+       'plans with', 'pos-1_:', 'pos-2_JJ', 'prearranged'],
+      dtype='object')
+
+play.v: Index(['It', 'It plays', 'left', 'off', 'off playing', 'play safe',
+       'plays with', 'safe', 'such', 'with'],
+      dtype='object')
+
+produce.v: Index(['Harry', 'I', 'carried', 'ever', 'produced one', 'produced sketches',
+       'produced without', 'sculpture', 'sketches', 'without'],
+      dtype='object')
+
+provide.v: Index([', provided', 'enacted', 'enacted providing', 'for', 'pos-1_VBN',
+       'pos1_IN', 'provided that', 'providing for', 'that', 'with'],
+      dtype='object')
+
+receive.v: Index(['?', 'And', 'any', 'be received', 'end', 'pos-1_DT', 'pos-1_VB',
+       'received ?', 'receiving end', 'the receiving'],
+      dtype='object')
+
+remain.v: Index(['be', 'chapters', 'more', 'more remains', 'pos1_TO', 'pos2_VB',
+       'remaining chapters', 'remains to', 'that remains', 'the remaining'],
+      dtype='object')
+
+rule.v: Index(['pos2_VBZ', 'post', 'principle', 'principle ruled', 'rule which',
+       'ruled post', 'rules these', 'terror', 'these', 'were'],
+      dtype='object')
+
+shelter.n: Index(['also', 'also shelter', 'deep', 'deep shelters', 'pos-1_RB',
+       'pos-2_WDT', 'savings', 'shelter savings', 'shelters so', 'so'],
+      dtype='object')
+
+simple.a: Index(['curiosity', 'filled', 'pos-1_IN', 'pos-2_NN', 'pos-2_VBN', 'pos1_JJ',
+       'pos2_NN', 'simple curiosity', 'with', 'with simple'],
+      dtype='object')
+
+smell.v: Index(['Miss', 'What', 'You smell', 'bad', 'he smelled', 'of', 'pos2_WP',
+       'smell as', 'smell of', 'smelled .'],
+      dtype='object')
+
+solid.a: Index(['attractive', 'attractive solid', 'cherry', 'form', 'has', 'pos1_CC',
+       'pos2_VBZ', 'representation', 'solid cherry', 'solid form'],
+      dtype='object')
+
+sort.n: Index(['out', 'pos-2_NN', 'pos1_DT', 'pos1_NNS', 'pos2_RP', 'sort the',
+       'sorts Eagle', 'sorts things', 'switchboard', 'while'],
+      dtype='object')
+
+source.n: Index(['Frank', 'first', 'pos2_NNP', 'potential source', 'reliable',
+       'reliable source', 'source for', 'very', 'vital', 'vital source'],
+      dtype='object')
+
+suspend.v: Index(['42p', '75p', 'animation', 'hung', 'pos-2_PRP$', 'pos1_:',
+       'shares suspended', 'strangely', 'strangely suspended', 'suspended -'],
+      dtype='object')
+
+talk.v: Index(['Kafka', 'ability', 'fellow', 'made', 'pos1_JJ', 'relaxation',
+       'sessions', 'talk fellow', 'talking quilts', 'television'],
+      dtype='object')
+
+treat.v: Index(['Naipaul treats', 'almost', 'arts', 'pos-2_WDT', 'pos1_TO', 'pos2_TO',
+       'treated almost', 'treated to', 'treats in', 'will'],
+      dtype='object')
+
+use.v: Index(['They used', 'Without', 'Without using', 'money', 'pos1_PRP', 'pos2_,',
+       'use drugs', 'used you', 'using any', 'who use'],
+      dtype='object')
+
+wash.v: Index(['have', 'have washed', 'out', 'pos-2_MD', 'pos2_PRP$', 'their',
+       'washed down', 'washed out', 'with', 'would'],
+      dtype='object')
+
+watch.v: Index(['Cameron watched', 'for', 'froggie', 'long', 'out', 'over', 'pos1_RP',
+       'watch out', 'watched for', 'watched over'],
+      dtype='object')
+
+win.v: Index(['Angolans', 'Neto', 'pos-2_NNPS', 'pos1_.', 'pos2_POS', 'win .',
+       'win his', 'win me', 'withal', 'won Siegfried'],
+      dtype='object')
+
+write.v: Index(['many', 'plays', 'pos-1_VBG', 'pos1_TO', 'that', 'well', 'well written',
+       'written about', 'written for', 'written that'],
+      dtype='object')
+
